@@ -13,7 +13,6 @@
 
 # Screenshots
 ## FAQ Page: Client Side
-Inline-style:
 ![alt text](faq.png "FAQ Page: Client Side")
 
 ## FAQ Page: Admin Side

@@ -10,3 +10,14 @@
 # teknologinya:
 - PHP
 - MySQL
+
+# Screenshots
+## FAQ Page: Client Side
+Inline-style:
+![alt text](faq.png "FAQ Page: Client Side")
+
+## FAQ Page: Admin Side
+![alt text](faq-admin.png "FAQ Page: Admin Side")
+
+## Database Structure
+![alt text](magento-faq.png "Database structure")
